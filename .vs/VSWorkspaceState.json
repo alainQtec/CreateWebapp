@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\cmdlet",
+    "\\cmdlet\\CreateWebapp",
+    "\\cmdlet\\CreateWebapp\\bin",
+    "\\cmdlet\\CreateWebapp\\bin\\Debug",
+    "\\cmdlet\\CreateWebapp\\packages",
+    "\\cmdlet\\CreateWebapp\\Properties"
+  ],
+  "SelectedNode": "\\cmdlet\\CreateWebapp\\bin\\Debug\\CreateWebapp.dll",
+  "PreviewInSolutionExplorer": false
+}

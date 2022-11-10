@@ -1,0 +1,11 @@
+E:\_UserProfile_\Documents\GitHub\CreateWebapp\cmdlet\CreateWebapp\bin\Debug\CreateWebapp.dll
+E:\_UserProfile_\Documents\GitHub\CreateWebapp\cmdlet\CreateWebapp\bin\Debug\CreateWebapp.pdb
+E:\_UserProfile_\Documents\GitHub\CreateWebapp\cmdlet\CreateWebapp\bin\Debug\System.Management.Automation.dll
+E:\_UserProfile_\Documents\GitHub\CreateWebapp\cmdlet\CreateWebapp\bin\Debug\Microsoft.Management.Infrastructure.dll
+E:\_UserProfile_\Documents\GitHub\CreateWebapp\cmdlet\CreateWebapp\bin\Debug\Microsoft.Management.Infrastructure.Native.dll
+E:\_UserProfile_\Documents\GitHub\CreateWebapp\cmdlet\CreateWebapp\bin\Debug\System.Management.Automation.xml
+E:\_UserProfile_\Documents\GitHub\CreateWebapp\cmdlet\CreateWebapp\obj\Debug\CreateWebapp.csprojAssemblyReference.cache
+E:\_UserProfile_\Documents\GitHub\CreateWebapp\cmdlet\CreateWebapp\obj\Debug\CreateWebapp.csproj.CoreCompileInputs.cache
+E:\_UserProfile_\Documents\GitHub\CreateWebapp\cmdlet\CreateWebapp\obj\Debug\CreateWebapp.csproj.CopyComplete
+E:\_UserProfile_\Documents\GitHub\CreateWebapp\cmdlet\CreateWebapp\obj\Debug\CreateWebapp.dll
+E:\_UserProfile_\Documents\GitHub\CreateWebapp\cmdlet\CreateWebapp\obj\Debug\CreateWebapp.pdb
