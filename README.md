@@ -11,11 +11,12 @@
 After reading these I wanted to create cli tool to help create web apps starter template projects on windows
 
 ```text
-microsoft-identity-web
+Microsoft identity webApp
  https://github.com/AzureAD/microsoft-identity-web/wiki/Web-App-Template
 
-PhP web APP
+PhP webApp
  https://github.com/plashenkov/webapp-template.git
-
-https://jsforall.com/nodejs/steps-to-create-first-nodejs-express-app/
+ 
+Node Express webApp
+  https://jsforall.com/nodejs/steps-to-create-first-nodejs-express-app/
 ```
